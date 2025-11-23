@@ -1,0 +1,14 @@
+[debug] Created transactional ClassFileManager with tempDir = F:\Big data\Spark_practice\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Created transactional ClassFileManager with tempDir = F:\Big data\Spark_practice\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	importantRows2$$typecreator10$1.class
+[debug] 	splitFunction1$$typecreator10$1.class
+[debug] 	splitFunction1.class
+[debug] 	importantRows2$.class
+[debug] 	splitFunction1$.class
+[debug] 	importantRows2.class
+[debug] Removing the temporary directory used for backing up class files: F:\Big data\Spark_practice\target\scala-2.13\classes.bak
